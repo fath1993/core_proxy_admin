@@ -1,0 +1,11 @@
+gunicorn
+psycopg2-binary
+Django
+django-admin-interface
+django-colorfield
+django-jalali
+django-rest-knox
+djangorestframework
+django-cors-headers
+
+requests
